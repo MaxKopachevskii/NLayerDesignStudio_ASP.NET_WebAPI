@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\NLayerDesignStudio_BLL.dll
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\NLayerDesignStudio_BLL.pdb
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\AutoMapper.dll
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\Ninject.dll
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\NLayerDesignStudio_DAL.dll
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\NLayerDesignStudio_DAL.pdb
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\NLayerDesignStudio_DAL.dll.config
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\AutoMapper.pdb
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\AutoMapper.xml
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\Ninject.xml
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\obj\Debug\NLayerDesignStudio_BLL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\obj\Debug\NLayerDesignStudio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\obj\Debug\NLayerDesignStudio_BLL.csproj.CopyComplete
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\obj\Debug\NLayerDesignStudio_BLL.dll
+C:\Users\Admin\source\repos\NLayerDesingStudio_WebAPI\NLayerDesignStudio_BLL\obj\Debug\NLayerDesignStudio_BLL.pdb
